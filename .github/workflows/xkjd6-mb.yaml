@@ -48,7 +48,7 @@ jobs:
             - name: clone-xxxk
               uses: actions/checkout@v6
               with:
-                    repository: xkinput/xxxk
+                    #repository: xkinput/xxxk
                     path: xxxk
 
             - name: clone-test
